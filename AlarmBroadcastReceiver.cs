@@ -21,7 +21,7 @@ namespace AlarmDetector
         /// </summary>
         public override void OnReceive(Context context, Intent intent)
         {
-            
+            // Your code goes here.
         }
 
         private void ExampleWakeOnLan(byte[] mac)
